@@ -11,7 +11,7 @@ quadrada.
 + Ao executar esse código, você verá a matriz original e, em seguida, a matriz com as diagonais invertidas. Fique à vontade para modificar a matriz de exemplo ou utilizar suas próprias matrizes para testar a função.
 
 
-+Questão 2: implemente uma função que, dado uma matriz A e uma submatriz B
+Questão 2: implemente uma função que, dado uma matriz A e uma submatriz B
 (dimensões menores que A), esta função retorne quantas vezes esta submatriz B
 pode ser encontrada na matriz A.
 
